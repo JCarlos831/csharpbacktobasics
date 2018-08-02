@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/bin/Debug/netcoreapp2.1/StringDemo.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/bin/Debug/netcoreapp2.1/StringDemo.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/bin/Debug/netcoreapp2.1/StringDemo.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/bin/Debug/netcoreapp2.1/StringDemo.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/bin/Debug/netcoreapp2.1/StringDemo.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/obj/Debug/netcoreapp2.1/StringDemo.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/obj/Debug/netcoreapp2.1/StringDemo.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/obj/Debug/netcoreapp2.1/StringDemo.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/obj/Debug/netcoreapp2.1/StringDemo.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/obj/Debug/netcoreapp2.1/StringDemo.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/StringDemo/obj/Debug/netcoreapp2.1/StringDemo.pdb

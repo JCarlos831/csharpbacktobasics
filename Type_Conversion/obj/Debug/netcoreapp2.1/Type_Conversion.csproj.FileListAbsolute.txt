@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/bin/Debug/netcoreapp2.1/Type_Conversion.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/bin/Debug/netcoreapp2.1/Type_Conversion.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/bin/Debug/netcoreapp2.1/Type_Conversion.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/bin/Debug/netcoreapp2.1/Type_Conversion.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/bin/Debug/netcoreapp2.1/Type_Conversion.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/obj/Debug/netcoreapp2.1/Type_Conversion.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/obj/Debug/netcoreapp2.1/Type_Conversion.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/obj/Debug/netcoreapp2.1/Type_Conversion.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/obj/Debug/netcoreapp2.1/Type_Conversion.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/obj/Debug/netcoreapp2.1/Type_Conversion.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Type_Conversion/obj/Debug/netcoreapp2.1/Type_Conversion.pdb

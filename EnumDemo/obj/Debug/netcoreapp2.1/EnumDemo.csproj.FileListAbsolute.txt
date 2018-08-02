@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/bin/Debug/netcoreapp2.1/EnumDemo.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/bin/Debug/netcoreapp2.1/EnumDemo.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/bin/Debug/netcoreapp2.1/EnumDemo.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/bin/Debug/netcoreapp2.1/EnumDemo.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/bin/Debug/netcoreapp2.1/EnumDemo.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/obj/Debug/netcoreapp2.1/EnumDemo.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/obj/Debug/netcoreapp2.1/EnumDemo.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/obj/Debug/netcoreapp2.1/EnumDemo.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/obj/Debug/netcoreapp2.1/EnumDemo.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/obj/Debug/netcoreapp2.1/EnumDemo.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/EnumDemo/obj/Debug/netcoreapp2.1/EnumDemo.pdb

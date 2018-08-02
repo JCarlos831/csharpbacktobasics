@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/obj/Debug/netcoreapp2.1/Variables_and_Constants.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/obj/Debug/netcoreapp2.1/Variables_and_Constants.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/obj/Debug/netcoreapp2.1/Variables_and_Constants.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/obj/Debug/netcoreapp2.1/Variables_and_Constants.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/bin/Debug/netcoreapp2.1/Variables_and_Constants.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/bin/Debug/netcoreapp2.1/Variables_and_Constants.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/bin/Debug/netcoreapp2.1/Variables_and_Constants.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/bin/Debug/netcoreapp2.1/Variables_and_Constants.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/bin/Debug/netcoreapp2.1/Variables_and_Constants.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/obj/Debug/netcoreapp2.1/Variables_and_Constants.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Variables_and_Constants/obj/Debug/netcoreapp2.1/Variables_and_Constants.pdb
