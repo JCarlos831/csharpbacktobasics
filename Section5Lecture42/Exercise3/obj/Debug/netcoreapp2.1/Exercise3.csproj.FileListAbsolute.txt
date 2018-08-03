@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/bin/Debug/netcoreapp2.1/Exercise3.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/bin/Debug/netcoreapp2.1/Exercise3.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/bin/Debug/netcoreapp2.1/Exercise3.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/bin/Debug/netcoreapp2.1/Exercise3.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/bin/Debug/netcoreapp2.1/Exercise3.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/obj/Debug/netcoreapp2.1/Exercise3.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/obj/Debug/netcoreapp2.1/Exercise3.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/obj/Debug/netcoreapp2.1/Exercise3.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/obj/Debug/netcoreapp2.1/Exercise3.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/obj/Debug/netcoreapp2.1/Exercise3.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture42/Exercise3/obj/Debug/netcoreapp2.1/Exercise3.pdb

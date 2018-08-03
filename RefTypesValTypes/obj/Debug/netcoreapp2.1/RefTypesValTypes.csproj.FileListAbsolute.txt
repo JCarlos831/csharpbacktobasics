@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/bin/Debug/netcoreapp2.1/RefTypesValTypes.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/bin/Debug/netcoreapp2.1/RefTypesValTypes.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/bin/Debug/netcoreapp2.1/RefTypesValTypes.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/bin/Debug/netcoreapp2.1/RefTypesValTypes.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/bin/Debug/netcoreapp2.1/RefTypesValTypes.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/obj/Debug/netcoreapp2.1/RefTypesValTypes.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/obj/Debug/netcoreapp2.1/RefTypesValTypes.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/obj/Debug/netcoreapp2.1/RefTypesValTypes.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/obj/Debug/netcoreapp2.1/RefTypesValTypes.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/obj/Debug/netcoreapp2.1/RefTypesValTypes.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RefTypesValTypes/obj/Debug/netcoreapp2.1/RefTypesValTypes.pdb

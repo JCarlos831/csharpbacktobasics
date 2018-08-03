@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.pdb
