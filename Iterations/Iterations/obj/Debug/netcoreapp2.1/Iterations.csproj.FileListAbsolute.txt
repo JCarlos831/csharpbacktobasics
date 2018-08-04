@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/bin/Debug/netcoreapp2.1/Iterations.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/bin/Debug/netcoreapp2.1/Iterations.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/bin/Debug/netcoreapp2.1/Iterations.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/bin/Debug/netcoreapp2.1/Iterations.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/bin/Debug/netcoreapp2.1/Iterations.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/obj/Debug/netcoreapp2.1/Iterations.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/obj/Debug/netcoreapp2.1/Iterations.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/obj/Debug/netcoreapp2.1/Iterations.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/obj/Debug/netcoreapp2.1/Iterations.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/obj/Debug/netcoreapp2.1/Iterations.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Iterations/Iterations/obj/Debug/netcoreapp2.1/Iterations.pdb
