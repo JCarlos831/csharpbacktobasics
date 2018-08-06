@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{1A27BD57-C8D0-4879-8A64-2B8EAB51B104}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RandomClass/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RandomClass/PasswordGenerator.cs">
     <Files>
-      <File FileName="RandomClass/Program.cs" Line="11" Column="9" />
-      <File FileName="RandomClass/PasswordGenerator.cs" Line="1" Column="1" />
+      <File FileName="RandomClass/Program.cs" Line="11" Column="43" />
+      <File FileName="RandomClass/PasswordGenerator.cs" Line="21" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RandomClass" expanded="True">
-            <Node name="RandomClass" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="RandomClass" expanded="True" selected="True">
+            <Node name="RandomClass" expanded="True" />
           </Node>
         </State>
       </Pad>

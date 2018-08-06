@@ -6,10 +6,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Iterations" expanded="True">
-            <Node name="Iterations" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="Iterations" expanded="True" selected="True">
+            <Node name="Iterations" expanded="True" />
           </Node>
         </State>
       </Pad>

@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture49/Exercise2/Exercise2/bin/Debug/Exercise2.exe
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture49/Exercise2/Exercise2/bin/Debug/Exercise2.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture49/Exercise2/Exercise2/obj/x86/Debug/Exercise2.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture49/Exercise2/Exercise2/obj/x86/Debug/Exercise2.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture49/Exercise2/Exercise2/obj/x86/Debug/Exercise2.exe
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/Section5Lecture49/Exercise2/Exercise2/obj/x86/Debug/Exercise2.pdb
