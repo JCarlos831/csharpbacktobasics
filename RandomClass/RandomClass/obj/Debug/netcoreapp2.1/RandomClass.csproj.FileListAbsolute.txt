@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/bin/Debug/netcoreapp2.1/RandomClass.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/bin/Debug/netcoreapp2.1/RandomClass.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/bin/Debug/netcoreapp2.1/RandomClass.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/bin/Debug/netcoreapp2.1/RandomClass.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/bin/Debug/netcoreapp2.1/RandomClass.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/obj/Debug/netcoreapp2.1/RandomClass.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/obj/Debug/netcoreapp2.1/RandomClass.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/obj/Debug/netcoreapp2.1/RandomClass.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/obj/Debug/netcoreapp2.1/RandomClass.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/obj/Debug/netcoreapp2.1/RandomClass.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/Back2Basics/RandomClass/RandomClass/obj/Debug/netcoreapp2.1/RandomClass.pdb

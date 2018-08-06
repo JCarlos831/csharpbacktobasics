@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1A27BD57-C8D0-4879-8A64-2B8EAB51B104}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RandomClass/Program.cs">
+    <Files>
+      <File FileName="RandomClass/Program.cs" Line="11" Column="9" />
+      <File FileName="RandomClass/PasswordGenerator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RandomClass" expanded="True">
+            <Node name="RandomClass" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RandomClass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
